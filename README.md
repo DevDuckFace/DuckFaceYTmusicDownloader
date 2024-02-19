@@ -1,4 +1,4 @@
-(/assets/images/Screenshot_4.png)
+(/Screenshot_4.png)
 # How to Install and Run the Program
 
 ## 1. Install Python 3.8 or later.
