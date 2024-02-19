@@ -12,7 +12,7 @@ Open a terminal and run the following command:
 pip install -r requirements.txt
 3. Run the program.
 
-''Navigate to the directory where the program is located and run the following command:''
+#Navigate to the directory where the program is located and run the following command:#
 
 python DuckFaceYTmusicDownloader.py
 
