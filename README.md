@@ -1,4 +1,4 @@
-(/blob/main/assets/images/Screenshot_4.png)
+([/blob/main/assets/images/Screenshot_4.png](https://github.com/DevDuckFace/DuckFaceYTmusicDownloader/blob/main/Screenshot_4.png))
 # How to Install and Run the Program
 
 ## 1. Install Python 3.8 or later.
